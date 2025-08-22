@@ -15,5 +15,3 @@ def new_linear_search(mylist, key): # cost      number of times
   return -1                         #  c4             1
 
   # Cost(new-linear-search, n) = c5n + c6n + c4 = f1(n)
-
-
