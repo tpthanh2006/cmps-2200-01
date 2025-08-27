@@ -11,5 +11,4 @@
   + min. possible time that the computation requires
 
 - parallelism = T1 / Tinf -> maximum possible speedup with unlimited processors
-
 '''
